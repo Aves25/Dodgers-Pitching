@@ -1,0 +1,32 @@
+h1{
+    color: dodgerblue;
+    text-align: center;
+    font-size: 60pxpx;
+    border: 3px,solid, black;
+    border-radius: 12px;
+    padding: 5px;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+    font-family: "Helvetica";
+}
+
+body{
+    background: linear-gradient(#C19A6B 0%, #C19A6B 50%, white 100%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}   
+
+p{
+    font-size: 20px;
+}
+h2{
+    color: dodgerblue;text-align: center;
+    font-size: 60pxpx;
+    border: 3px,solid, black;
+    border-radius: 12px;
+    padding: 5px;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+    font-family: "Helvetica";
+}
